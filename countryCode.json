@@ -1,0 +1,938 @@
+[
+    {
+        "country": "阿尔巴尼亚 (Shqipëri)",
+        "code": "+355"
+    },
+    {
+        "country": "阿尔及利亚 (Algeria)",
+        "code": "+213"
+    },
+    {
+        "country": "阿富汗 (‫افغانستان‬‎)",
+        "code": "+93"
+    },
+    {
+        "country": "阿根廷 (Argentina)",
+        "code": "+54"
+    },
+    {
+        "country": "阿拉伯联合酋长国 (‫الإمارات العربية المتحدة‬‎)",
+        "code": "+971"
+    },
+    {
+        "country": "阿鲁巴 (Aruba)",
+        "code": "+297"
+    },
+    {
+        "country": "阿曼 (‫عُمان‬‎)",
+        "code": "+968"
+    },
+    {
+        "country": "阿塞拜疆 (Azərbaycan)",
+        "code": "+994"
+    },
+    {
+        "country": "阿森松岛 (Ascension Island)",
+        "code": "+247"
+    },
+    {
+        "country": "埃及 (‫مصر‬‎)",
+        "code": "+20"
+    },
+    {
+        "country": "埃塞俄比亚 (Ethiopia)",
+        "code": "+251"
+    },
+    {
+        "country": "爱尔兰 (Ireland)",
+        "code": "+353"
+    },
+    {
+        "country": "爱沙尼亚 (Eesti)",
+        "code": "+372"
+    },
+    {
+        "country": "安道尔 (Andorra)",
+        "code": "+376"
+    },
+    {
+        "country": "安哥拉 (Angola)",
+        "code": "+244"
+    },
+    {
+        "country": "安圭拉 (Anguilla)",
+        "code": "+1264"
+    },
+    {
+        "country": "安提瓜和巴布达 (Antigua & Barbuda)",
+        "code": "+1268"
+    },
+    {
+        "country": "奥地利 (Österreich)",
+        "code": "+43"
+    },
+    {
+        "country": "澳大利亚 (Australia)",
+        "code": "+61"
+    },
+    {
+        "country": "澳门 (澳門)",
+        "code": "+853"
+    },
+    {
+        "country": "巴巴多斯 (Barbados)",
+        "code": "+1246"
+    },
+    {
+        "country": "巴布亚新几内亚 (Papua New Guinea)",
+        "code": "+675"
+    },
+    {
+        "country": "巴哈马 (Bahamas)",
+        "code": "+1242"
+    },
+    {
+        "country": "巴基斯坦 (‫پاکستان‬‎)",
+        "code": "+92"
+    },
+    {
+        "country": "巴拉圭 (Paraguay)",
+        "code": "+595"
+    },
+    {
+        "country": "巴勒斯坦 (‫فلسطين‬‎)",
+        "code": "+970"
+    },
+    {
+        "country": "巴林 (‫البحرين‬‎)",
+        "code": "+973"
+    },
+    {
+        "country": "巴拿马 (Panamá)",
+        "code": "+507"
+    },
+    {
+        "country": "巴西 (Brasil)",
+        "code": "+55"
+    },
+    {
+        "country": "白俄罗斯 (Беларусь)",
+        "code": "+375"
+    },
+    {
+        "country": "百慕大 (Bermuda)",
+        "code": "+1441"
+    },
+    {
+        "country": "保加利亚 (България)",
+        "code": "+359"
+    },
+    {
+        "country": "北马里亚纳群岛 (Northern Mariana Islands)",
+        "code": "+1"
+    },
+    {
+        "country": "贝宁 (Bénin)",
+        "code": "+229"
+    },
+    {
+        "country": "比利时 (Belgium)",
+        "code": "+32"
+    },
+    {
+        "country": "冰岛 (Ísland)",
+        "code": "+354"
+    },
+    {
+        "country": "玻利维亚 (Bolivia)",
+        "code": "+591"
+    },
+    {
+        "country": "波多黎各 (Puerto Rico)",
+        "code": "+1787"
+    },
+    {
+        "country": "波兰 (Polska)",
+        "code": "+48"
+    },
+    {
+        "country": "波斯尼亚和黑塞哥维那 (Bosna i Hercegovina)",
+        "code": "+387"
+    },
+    {
+        "country": "博茨瓦纳 (Botswana)",
+        "code": "+267"
+    },
+    {
+        "country": "伯利兹 (Belize)",
+        "code": "+501"
+    },
+    {
+        "country": "不丹 (འབྲུག)",
+        "code": "+975"
+    },
+    {
+        "country": "布基纳法索 (Burkina Faso)",
+        "code": "+226"
+    },
+    {
+        "country": "布隆迪 (Uburundi)",
+        "code": "+257"
+    },
+    {
+        "country": "朝鲜 (북한)",
+        "code": "+850"
+    },
+    {
+        "country": "赤道几内亚 (Guinea Ecuatorial)",
+        "code": "+240"
+    },
+    {
+        "country": "丹麦 (Danmark)",
+        "code": "+45"
+    },
+    {
+        "country": "德国 (Deutschland)",
+        "code": "+49"
+    },
+    {
+        "country": "东帝汶 (Timor-Leste)",
+        "code": "+670"
+    },
+    {
+        "country": "多哥 (Togo)",
+        "code": "+228"
+    },
+    {
+        "country": "多米尼加共和国 (República Dominicana)",
+        "code": "+1809"
+    },
+    {
+        "country": "多米尼克 (Dominica)",
+        "code": "+1767"
+    },
+    {
+        "country": "俄罗斯 (Россия)",
+        "code": "+7"
+    },
+    {
+        "country": "厄瓜多尔 (Ecuador)",
+        "code": "+593"
+    },
+    {
+        "country": "厄立特里亚 (Eritrea)",
+        "code": "+291"
+    },
+    {
+        "country": "法国 (France)",
+        "code": "+33"
+    },
+    {
+        "country": "法罗群岛 (Føroyar)",
+        "code": "+298"
+    },
+    {
+        "country": "法属波利尼西亚 (Polynésie française)",
+        "code": "+689"
+    },
+    {
+        "country": "法属圭亚那 (Guyane française)",
+        "code": "+594"
+    },
+    {
+        "country": "菲律宾 (Philippines)",
+        "code": "+63"
+    },
+    {
+        "country": "芬兰 (Suomi)",
+        "code": "+358"
+    },
+    {
+        "country": "佛得角 (Kabu Verdi)",
+        "code": "+238"
+    },
+    {
+        "country": "福克兰群岛（马尔维纳斯群岛） (Falkland Islands (Islas Malvinas))",
+        "code": "+500"
+    },
+    {
+        "country": "冈比亚 (Gambia)",
+        "code": "+220"
+    },
+    {
+        "country": "刚果（布） (Congo-Brazzaville)",
+        "code": "+242"
+    },
+    {
+        "country": "刚果（金） (Jamhuri ya Kidemokrasia ya Kongo)",
+        "code": "+243"
+    },
+    {
+        "country": "哥伦比亚 (Colombia)",
+        "code": "+57"
+    },
+    {
+        "country": "哥斯达黎加 (Costa Rica)",
+        "code": "+506"
+    },
+    {
+        "country": "格林纳达 (Grenada)",
+        "code": "+1473"
+    },
+    {
+        "country": "格陵兰 (Kalaallit Nunaat)",
+        "code": "+299"
+    },
+    {
+        "country": "格鲁吉亚 (საქართველო)",
+        "code": "+995"
+    },
+    {
+        "country": "古巴 (Cuba)",
+        "code": "+53"
+    },
+    {
+        "country": "瓜德罗普 (Guadeloupe)",
+        "code": "+590"
+    },
+    {
+        "country": "关岛 (Guam)",
+        "code": "+1671"
+    },
+    {
+        "country": "圭亚那 (Guyana)",
+        "code": "+592"
+    },
+    {
+        "country": "哈萨克斯坦 (Казахстан)",
+        "code": "+7"
+    },
+    {
+        "country": "海地 (Haiti)",
+        "code": "+509"
+    },
+    {
+        "country": "韩国 (대한민국)",
+        "code": "+82"
+    },
+    {
+        "country": "荷兰 (Nederland)",
+        "code": "+31"
+    },
+    {
+        "country": "荷属加勒比区 (Caribbean Netherlands)",
+        "code": "+599"
+    },
+    {
+        "country": "荷属圣马丁 (Sint Maarten)",
+        "code": "+1721"
+    },
+    {
+        "country": "黑山 (Crna Gora)",
+        "code": "+382"
+    },
+    {
+        "country": "洪都拉斯 (Honduras)",
+        "code": "+504"
+    },
+    {
+        "country": "基里巴斯 (Kiribati)",
+        "code": "+686"
+    },
+    {
+        "country": "吉布提 (Djibouti)",
+        "code": "+253"
+    },
+    {
+        "country": "吉尔吉斯斯坦 (Кыргызстан)",
+        "code": "+996"
+    },
+    {
+        "country": "几内亚 (Guinée)",
+        "code": "+224"
+    },
+    {
+        "country": "几内亚比绍 (Guiné-Bissau)",
+        "code": "+245"
+    },
+    {
+        "country": "加拿大 (Canada)",
+        "code": "+1"
+    },
+    {
+        "country": "加纳 (Gaana)",
+        "code": "+233"
+    },
+    {
+        "country": "加蓬 (Gabon)",
+        "code": "+241"
+    },
+    {
+        "country": "柬埔寨 (កម្ពុជា)",
+        "code": "+855"
+    },
+    {
+        "country": "捷克 (Česko)",
+        "code": "+420"
+    },
+    {
+        "country": "津巴布韦 (Zimbabwe)",
+        "code": "+263"
+    },
+    {
+        "country": "喀麦隆 (Cameroun)",
+        "code": "+237"
+    },
+    {
+        "country": "卡塔尔 (‫قطر‬‎)",
+        "code": "+974"
+    },
+    {
+        "country": "开曼群岛 (Cayman Islands)",
+        "code": "+1345"
+    },
+    {
+        "country": "科摩罗 (‫جزر القمر‬‎)",
+        "code": "+269"
+    },
+    {
+        "country": "科特迪瓦 (Côte d’Ivoire)",
+        "code": "+225"
+    },
+    {
+        "country": "科威特 (‫الكويت‬‎)",
+        "code": "+965"
+    },
+    {
+        "country": "克罗地亚 (Hrvatska)",
+        "code": "+385"
+    },
+    {
+        "country": "肯尼亚 (Kenya)",
+        "code": "+254"
+    },
+    {
+        "country": "库克群岛 (Cook Islands)",
+        "code": "+682"
+    },
+    {
+        "country": "库拉索 (Curaçao)",
+        "code": "+599"
+    },
+    {
+        "country": "拉脱维亚 (Latvija)",
+        "code": "+371"
+    },
+    {
+        "country": "莱索托 (Lesotho)",
+        "code": "+266"
+    },
+    {
+        "country": "老挝 (ລາວ)",
+        "code": "+856"
+    },
+    {
+        "country": "黎巴嫩 (‫لبنان‬‎)",
+        "code": "+961"
+    },
+    {
+        "country": "利比里亚 (Liberia)",
+        "code": "+231"
+    },
+    {
+        "country": "利比亚 (‫ليبيا‬‎)",
+        "code": "+218"
+    },
+    {
+        "country": "立陶宛 (Lietuva)",
+        "code": "+370"
+    },
+    {
+        "country": "列支敦士登 (Liechtenstein)",
+        "code": "+423"
+    },
+    {
+        "country": "留尼汪 (La Réunion)",
+        "code": "+262"
+    },
+    {
+        "country": "卢森堡 (Luxembourg)",
+        "code": "+352"
+    },
+    {
+        "country": "卢旺达 (Rwanda)",
+        "code": "+250"
+    },
+    {
+        "country": "罗马尼亚 (România)",
+        "code": "+40"
+    },
+    {
+        "country": "马达加斯加 (Madagasikara)",
+        "code": "+261"
+    },
+    {
+        "country": "马耳他 (Malta)",
+        "code": "+356"
+    },
+    {
+        "country": "马尔代夫 (Maldives)",
+        "code": "+960"
+    },
+    {
+        "country": "马拉维 (Malawi)",
+        "code": "+265"
+    },
+    {
+        "country": "马来西亚 (Malaysia)",
+        "code": "+60"
+    },
+    {
+        "country": "马里 (Mali)",
+        "code": "+223"
+    },
+    {
+        "country": "马其顿（前南斯拉夫马其顿共和国） (Република Македонија)",
+        "code": "+389"
+    },
+    {
+        "country": "马绍尔群岛 (Marshall Islands)",
+        "code": "+692"
+    },
+    {
+        "country": "马提尼克 (Martinique)",
+        "code": "+596"
+    },
+    {
+        "country": "毛里求斯 (Moris)",
+        "code": "+230"
+    },
+    {
+        "country": "毛里塔尼亚 (‫موريتانيا‬‎)",
+        "code": "+222"
+    },
+    {
+        "country": "美国 (United States)",
+        "code": "+1"
+    },
+    {
+        "country": "美属萨摩亚 (American Samoa)",
+        "code": "+1684"
+    },
+    {
+        "country": "美属维尔京群岛 (U.S. Virgin Islands)",
+        "code": "+1340"
+    },
+    {
+        "country": "蒙古 (Монгол)",
+        "code": "+976"
+    },
+    {
+        "country": "蒙特塞拉特 (Montserrat)",
+        "code": "+1664"
+    },
+    {
+        "country": "孟加拉国 (বাংলাদেশ)",
+        "code": "+880"
+    },
+    {
+        "country": "秘鲁 (Perú)",
+        "code": "+51"
+    },
+    {
+        "country": "密克罗尼西亚 (Micronesia)",
+        "code": "+691"
+    },
+    {
+        "country": "缅甸 (မြန်မာ)",
+        "code": "+95"
+    },
+    {
+        "country": "摩尔多瓦 (Republica Moldova)",
+        "code": "+373"
+    },
+    {
+        "country": "摩洛哥 (Morocco)",
+        "code": "+212"
+    },
+    {
+        "country": "摩纳哥 (Monaco)",
+        "code": "+377"
+    },
+    {
+        "country": "莫桑比克 (Moçambique)",
+        "code": "+258"
+    },
+    {
+        "country": "墨西哥 (México)",
+        "code": "+52"
+    },
+    {
+        "country": "纳米比亚 (Namibië)",
+        "code": "+264"
+    },
+    {
+        "country": "南非 (South Africa)",
+        "code": "+27"
+    },
+    {
+        "country": "南苏丹 (‫جنوب السودان‬‎)",
+        "code": "+211"
+    },
+    {
+        "country": "尼泊尔 (नेपाल)",
+        "code": "+977"
+    },
+    {
+        "country": "尼加拉瓜 (Nicaragua)",
+        "code": "+505"
+    },
+    {
+        "country": "尼日尔 (Nijar)",
+        "code": "+227"
+    },
+    {
+        "country": "尼日利亚 (Nigeria)",
+        "code": "+234"
+    },
+    {
+        "country": "纽埃 (Niue)",
+        "code": "+683"
+    },
+    {
+        "country": "挪威 (Norge)",
+        "code": "+47"
+    },
+    {
+        "country": "诺福克岛 (Norfolk Island)",
+        "code": "+672"
+    },
+    {
+        "country": "帕劳 (Palau)",
+        "code": "+680"
+    },
+    {
+        "country": "葡萄牙 (Portugal)",
+        "code": "+351"
+    },
+    {
+        "country": "日本",
+        "code": "+81"
+    },
+    {
+        "country": "瑞典 (Sverige)",
+        "code": "+46"
+    },
+    {
+        "country": "瑞士 (Schweiz)",
+        "code": "+41"
+    },
+    {
+        "country": "萨尔瓦多 (El Salvador)",
+        "code": "+503"
+    },
+    {
+        "country": "萨摩亚 (Samoa)",
+        "code": "+685"
+    },
+    {
+        "country": "塞尔维亚 (Србија)",
+        "code": "+381"
+    },
+    {
+        "country": "塞拉利昂 (Sierra Leone)",
+        "code": "+232"
+    },
+    {
+        "country": "塞内加尔 (Senegal)",
+        "code": "+221"
+    },
+    {
+        "country": "塞浦路斯 (Κύπρος)",
+        "code": "+357"
+    },
+    {
+        "country": "塞舌尔 (Seychelles)",
+        "code": "+248"
+    },
+    {
+        "country": "沙特阿拉伯 (‫المملكة العربية السعودية‬‎)",
+        "code": "+966"
+    },
+    {
+        "country": "圣巴泰勒米 (Saint-Barthélemy)",
+        "code": "+590"
+    },
+    {
+        "country": "圣多美和普林西比 (São Tomé e Príncipe)",
+        "code": "+239"
+    },
+    {
+        "country": "圣赫勒拿 (St. Helena)",
+        "code": "+290"
+    },
+    {
+        "country": "圣基茨和尼维斯 (St. Kitts & Nevis)",
+        "code": "+1869"
+    },
+    {
+        "country": "圣卢西亚 (St. Lucia)",
+        "code": "+1758"
+    },
+    {
+        "country": "圣马丁岛 (Saint-Martin)",
+        "code": "+590"
+    },
+    {
+        "country": "圣马力诺 (San Marino)",
+        "code": "+378"
+    },
+    {
+        "country": "圣皮埃尔和密克隆群岛 (Saint-Pierre-et-Miquelon)",
+        "code": "+508"
+    },
+    {
+        "country": "圣文森特和格林纳丁斯 (St. Vincent & Grenadines)",
+        "code": "+1784"
+    },
+    {
+        "country": "斯里兰卡 (ශ්‍රී ලංකාව)",
+        "code": "+94"
+    },
+    {
+        "country": "斯洛伐克 (Slovensko)",
+        "code": "+421"
+    },
+    {
+        "country": "斯洛文尼亚 (Slovenija)",
+        "code": "+386"
+    },
+    {
+        "country": "斯威士兰 (Swaziland)",
+        "code": "+268"
+    },
+    {
+        "country": "苏丹 (‫السودان‬‎)",
+        "code": "+249"
+    },
+    {
+        "country": "苏里南 (Suriname)",
+        "code": "+597"
+    },
+    {
+        "country": "索马里 (Soomaaliya)",
+        "code": "+252"
+    },
+    {
+        "country": "所罗门群岛 (Solomon Islands)",
+        "code": "+677"
+    },
+    {
+        "country": "塔吉克斯坦 (Tajikistan)",
+        "code": "+992"
+    },
+    {
+        "country": "台湾 (台灣)",
+        "code": "+886"
+    },
+    {
+        "country": "泰国 (ไทย)",
+        "code": "+66"
+    },
+    {
+        "country": "坦桑尼亚 (Tanzania)",
+        "code": "+255"
+    },
+    {
+        "country": "汤加 (Tonga)",
+        "code": "+676"
+    },
+    {
+        "country": "特克斯和凯科斯群岛 (Turks & Caicos Islands)",
+        "code": "+1649"
+    },
+    {
+        "country": "特立尼达和多巴哥 (Trinidad & Tobago)",
+        "code": "+1868"
+    },
+    {
+        "country": "突尼斯 (Tunisia)",
+        "code": "+216"
+    },
+    {
+        "country": "图瓦卢 (Tuvalu)",
+        "code": "+688"
+    },
+    {
+        "country": "土耳其 (Türkiye)",
+        "code": "+90"
+    },
+    {
+        "country": "土库曼斯坦 (Turkmenistan)",
+        "code": "+993"
+    },
+    {
+        "country": "托克劳 (Tokelau)",
+        "code": "+690"
+    },
+    {
+        "country": "瓦利斯和富图纳 (Wallis & Futuna)",
+        "code": "+681"
+    },
+    {
+        "country": "瓦努阿图 (Vanuatu)",
+        "code": "+678"
+    },
+    {
+        "country": "危地马拉 (Guatemala)",
+        "code": "+502"
+    },
+    {
+        "country": "委内瑞拉 (Venezuela)",
+        "code": "+58"
+    },
+    {
+        "country": "文莱 (Brunei)",
+        "code": "+673"
+    },
+    {
+        "country": "乌干达 (Uganda)",
+        "code": "+256"
+    },
+    {
+        "country": "乌克兰 (Україна)",
+        "code": "+380"
+    },
+    {
+        "country": "乌拉圭 (Uruguay)",
+        "code": "+598"
+    },
+    {
+        "country": "乌兹别克斯坦 (Oʻzbekiston)",
+        "code": "+998"
+    },
+    {
+        "country": "西班牙 (España)",
+        "code": "+34"
+    },
+    {
+        "country": "希腊 (Ελλάδα)",
+        "code": "+30"
+    },
+    {
+        "country": "香港",
+        "code": "+852"
+    },
+    {
+        "country": "新加坡 (Singapore)",
+        "code": "+65"
+    },
+    {
+        "country": "新喀里多尼亚 (Nouvelle-Calédonie)",
+        "code": "+687"
+    },
+    {
+        "country": "新西兰 (New Zealand)",
+        "code": "+64"
+    },
+    {
+        "country": "匈牙利 (Magyarország)",
+        "code": "+36"
+    },
+    {
+        "country": "叙利亚 (‫سوريا‬‎)",
+        "code": "+963"
+    },
+    {
+        "country": "牙买加 (Jamaica)",
+        "code": "+1876"
+    },
+    {
+        "country": "亚美尼亚 (Հայաստան)",
+        "code": "+374"
+    },
+    {
+        "country": "也门 (‫اليمن‬‎)",
+        "code": "+967"
+    },
+    {
+        "country": "伊拉克 (‫العراق‬‎)",
+        "code": "+964"
+    },
+    {
+        "country": "伊朗 (‫ایران‬‎)",
+        "code": "+98"
+    },
+    {
+        "country": "以色列 (‫ישראל‬‎)",
+        "code": "+972"
+    },
+    {
+        "country": "意大利 (Italia)",
+        "code": "+39"
+    },
+    {
+        "country": "印度 (भारत)",
+        "code": "+91"
+    },
+    {
+        "country": "印度尼西亚 (Indonesia)",
+        "code": "+62"
+    },
+    {
+        "country": "英国 (United Kingdom)",
+        "code": "+44"
+    },
+    {
+        "country": "英属维尔京群岛 (British Virgin Islands)",
+        "code": "+1284"
+    },
+    {
+        "country": "英属印度洋领地 (British Indian Ocean Territory)",
+        "code": "+246"
+    },
+    {
+        "country": "约旦 (‫الأردن‬‎)",
+        "code": "+962"
+    },
+    {
+        "country": "越南 (Việt Nam)",
+        "code": "+84"
+    },
+    {
+        "country": "赞比亚 (Zambia)",
+        "code": "+260"
+    },
+    {
+        "country": "乍得 (Tchad)",
+        "code": "+235"
+    },
+    {
+        "country": "直布罗陀 (Gibraltar)",
+        "code": "+350"
+    },
+    {
+        "country": "智利 (Chile)",
+        "code": "+56"
+    },
+    {
+        "country": "中非共和国 (République centrafricaine)",
+        "code": "+236"
+    },
+    {
+        "country": "中国",
+        "code": "+86"
+    },
+    {
+        "country": "瑙鲁 (Nauru)",
+        "code": "+674"
+    },
+    {
+        "country": "梵蒂冈 (Città del Vaticano)",
+        "code": "+379"
+    },
+    {
+        "country": "斐济 (Fiji)",
+        "code": "+679"
+    }
+]
